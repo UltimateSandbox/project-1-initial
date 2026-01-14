@@ -1,5 +1,5 @@
 # AI Interaction Log
-This document logs interactions with AI models, capturing prompts and responses for reference and analysis.
+This document logs interactions with AI models, capturing prompts for reference and analysis.
 
 ### Point3D
 Generation Prompt: "Would you generate a class in Java that represents a point in 3D space.
